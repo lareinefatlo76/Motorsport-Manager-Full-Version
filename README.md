@@ -241,4 +241,4 @@ This repository serves as the official landing page for Motorsport Manager. The 
 **Get the most recent version of Motorsport Manager today!**
 
 ---
-**Last updated:** 2026-10-12 06:44:04 UTC
+**Last updated:** 2026-10-12 16:16:46 UTC
